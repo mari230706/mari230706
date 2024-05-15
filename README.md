@@ -1,16 +1,14 @@
-### Hi there 👋
+### Boas vindas ao meu perfil!!
 
-<!--
-**mari230706/mari230706** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Mariana Camargo
+-Estou estudando no Alura
+-Estou me desenvolvendo na linguagem JavaScript
+-Utilizo esse espaço para me organizar e compartilhar meus projetos desenvolvidos
 
-Here are some ideas to get you started:
+### Você pode entrar em contato comigo
+00001105358252SP@al.educacao.sp.gov.br
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+@_mariana_camargo__
+
+![](https://tenor.com/IU69.gif)
+
